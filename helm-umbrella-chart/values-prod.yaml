@@ -1,2 +1,2 @@
 hello-world:
-  replicaCount: 5
+  replicaCount: 2
