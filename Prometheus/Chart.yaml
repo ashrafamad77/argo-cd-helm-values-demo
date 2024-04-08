@@ -1,5 +1,5 @@
 apiVersion: v2
-name: Prometheus-Ashraf
+name: promy
 description: Prometheus customized by Ashraf
 type: application
 version: 0.1.0
